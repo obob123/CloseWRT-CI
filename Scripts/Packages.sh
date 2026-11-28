@@ -55,6 +55,7 @@ UPDATE_PACKAGE() {
 # UPDATE_PACKAGE "aurora-config" "eamonxg/luci-app-aurora-config" "master"
 # UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "master"
 # UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
+UPDATE_PACKAGE "7dollar" "itsmaiGe/luci-theme-7dollar" "master"
 
 # UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
 # UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
